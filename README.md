@@ -1,6 +1,6 @@
-# Standard Platform
+# Istora Platform
 
-This is the official monorepo for the **Standard** web application, a full-stack platform designed to empower creators by providing an intuitive, real-time visual editor for building beautiful, high-performance websites.
+This is the official monorepo for the **Istora** web application, a full-stack platform designed to empower creators by providing an intuitive, real-time visual editor for building beautiful, high-performance websites.
 
 This project is a non-profit endeavor founded by two teenagers with a singular mission: to eliminate the friction between a brilliant idea and its digital reality.
 
